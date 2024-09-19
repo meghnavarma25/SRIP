@@ -1,5 +1,4 @@
-# SRIP
-Malaria Blood Smear Classification using EfficientNetB1
+# Malaria Blood Smear Classification using EfficientNetB1
 This project classifies blood smear images into two categories: Parasitized (infected with malaria) and Uninfected. We use EfficientNetB1, a pre-trained convolutional neural network, to perform the binary classification task.
 
 Dataset
