@@ -1,13 +1,13 @@
 # Malaria Blood Smear Classification using EfficientNetB1
 This project classifies blood smear images into two categories: Parasitized (infected with malaria) and Uninfected. We use EfficientNetB1, a pre-trained convolutional neural network, to perform the binary classification task.
 
-Dataset
+##Dataset
 The dataset used for this project consists of blood smear images for binary classification, divided into two categories:
 Parasitized: Images showing red blood cells infected with malaria parasites.
 Uninfected: Images of healthy red blood cells.
 
 
-Directory Structure
+##Directory Structure
 /content/drive/MyDrive/images/
     ├── cell_images/
     │   ├── Parasitized/
